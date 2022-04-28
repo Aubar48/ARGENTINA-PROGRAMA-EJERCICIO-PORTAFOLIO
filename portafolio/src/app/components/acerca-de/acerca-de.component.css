@@ -1,0 +1,25 @@
+/*Estilo foto de perfil responsive*/
+#miFoto{
+position: absolute;
+width: 15%;
+border-radius: 100%;
+box-shadow: 7px 13px 37px #000;
+top: 35%;
+left: 0%;
+}
+.row{
+  background-color: #b79cc4;
+  box-shadow: 7px 13px 37px #000;
+  background-size: cover;
+  margin-right: 0px;
+  padding: 0%;
+  margin: 0%;
+
+
+}
+
+
+
+
+
+

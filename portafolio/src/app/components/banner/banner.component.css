@@ -1,0 +1,10 @@
+.row{
+  width: auto;
+  height: auto;
+  box-shadow: 7px 13px 37px #000;
+  margin-right: 0px;
+  box-sizing: border-box;
+  font-size: 0;
+  line-height: 0;
+
+}

@@ -1,0 +1,18 @@
+.row{
+  background-color: #b79cc4;
+  width: auto;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-size: cover;
+}
+footer{
+  color: #fefefe;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  box-shadow: 7px 13px 37px #000;
+
+}

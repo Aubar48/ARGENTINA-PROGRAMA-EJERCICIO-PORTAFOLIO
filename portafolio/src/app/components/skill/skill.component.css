@@ -1,0 +1,12 @@
+.row{
+  padding: 2px;
+  background-color: #b79cc4;
+  width: auto;
+  height: auto;
+  box-shadow: 7px 13px 37px #000;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
